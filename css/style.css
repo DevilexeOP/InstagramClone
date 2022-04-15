@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.phone{
+    padding: 20px 50px;
+    margin-top: 2.5rem;
+    margin-left: 7rem;
+    width: 85%;
+}
+.right-column1{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin: 30px;
+    padding:0.5rem;
+}
+.right-column{
+
+    width: 350px;
+    margin: 30px;
+    padding:0.5rem;
+
+}
+p{
+    text-align: start;
+    text-decoration: none;
+}
+.logo{
+    margin: 15px auto;
+}
+
+.btn{
+    padding: 0.5rem;
+    margin: 1rem;
+    font-family: 'Roboto', sans-serif;
+    color: lightgray;
+    font-weight: lighter;
+    font-size: small;
+    border: 1px solid #e6e6e6;
+    width: 100%;
+    text-align: start;
+    align-items: center;
+}
+
+.login{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fb{
+    text-decoration: none;
+    color: #4267B2;
+    width: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+}
+
+.pass{
+    font-family: 'Roboto', sans-serif;
+    font-size: smaller;
+    text-decoration: none;
+    color: #032a77;
+    
+}
+.sign{
+    text-decoration: none;
+}
+
+
